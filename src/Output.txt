@@ -1,0 +1,12 @@
+HR
+Manager, 1, Jane Smith, 5000.00
+Employee, 101, John Doe, 3000.00
+2, 4000.00
+Sales
+Manager, 2, Michael Brown, 6000.00
+Employee, 104, Anna Taylor, 3100.00
+Employee, 105, Robert Black, 0.00
+3, 3033.33
+Некорректные данные:
+Employee,102,Emily Johnson,abc,1
+Employee,103,Chris White,-2900,2
